@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "scripts": {
+        "serve": "node bin/app.js",
+        "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+    },
+    "dependencies": {
+        "jest": "^29.7.0"
+    }
+}
